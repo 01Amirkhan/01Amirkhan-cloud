@@ -1,85 +1,45 @@
-# 01Amirkhan-cloud
-
 🚀 Amir Khan | Cloud & DevOps Engineer
 
-🌍 Cloud & DevOps Engineer passionate about building scalable infrastructure and automating everything.
+🌍 Cloud & DevOps Engineer passionate about building scalable infrastructure and automating everything
 
-☁️ AWS & DevOps Specialist
-
-🧑‍💻 2+ Years Industry Experience
-
-🎓 B.Tech (CSE Engineering)
-
+☁️ AWS & DevOps Engineer
+🧑‍💻 2 Years Industry Experience
+🎓 B.Tech – Computer Science Engineering
 💡 Passionate about Cloud Infrastructure, CI/CD & Automation
 
 👨‍💻 About Me
 
-I am a Cloud & DevOps Engineer with hands-on experience in building CI/CD pipelines, containerization, infrastructure automation, monitoring systems, and cloud deployment.
+I am a Cloud & DevOps Engineer with hands-on experience in building CI/CD pipelines, containerization, infrastructure automation, monitoring systems, and cloud deployments.
 
 I enjoy solving complex infrastructure problems and building highly scalable cloud environments.
 
 🛠️ Tech Stack
 ☁️ Cloud
-
-AWS
-
+<p> <img src="https://skillicons.dev/icons?i=aws" /> </p>
 ⚙️ DevOps Tools
-
-Git
-
-GitHub
-
-Jenkins
-
-Maven
-
-Nexus
-
-JFrog
-
+<p> <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven" /> </p>
 🐳 Containers & Orchestration
-
-Docker
-
-Kubernetes
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> </p>
 
 Docker Scout
 
 🏗️ Infrastructure as Code
-
-Terraform
-
-Ansible
-
+<p> <img src="https://skillicons.dev/icons?i=terraform,ansible" /> </p>
 🔐 DevSecOps
 
-SonarQube
-
-Trivy
-
-OWASP
+SonarQube • Trivy • OWASP
 
 📊 Monitoring & Logging
-
-Prometheus
-
-Grafana
-
+<p> <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> </p>
 🌐 Web & Servers
+<p> <img src="https://skillicons.dev/icons?i=nginx" /> </p>
 
-Tomcat
-
-Nginx
+Apache Tomcat
 
 🧰 Other Tools
+<p> <img src="https://skillicons.dev/icons?i=linux,python,html" /> </p>
 
 JIRA
-
-HTML
-
-Python
-
-Linux
 
 💼 Professional Experience
 🏢 Software Engineer
@@ -87,40 +47,38 @@ Linux
 AWC Software – Noida
 📅 Apr 2022 – Aug 2023
 
-Designed and developed secure RESTful web services using Java and Spring Boot.
+Designed and developed secure RESTful APIs using Java & Spring Boot
 
-Implemented CRUD operations (GET, POST, PUT, DELETE) for workflow-based enterprise applications.
+Implemented CRUD operations for enterprise workflow applications
 
-Integrated MySQL database for secure data storage and efficient retrieval across multiple applications.
+Integrated MySQL databases for efficient data storage
 
-Designed and implemented automated business workflows using Java-based technical flow logic.
+Built automated business workflows using Java logic
 
-Applied system design principles to build scalable applications supporting high concurrent users.
+Monitored applications using Prometheus & Grafana
 
-Monitored application performance using Prometheus and Grafana.
+Containerized applications using Docker
 
-Containerized applications using Docker for consistent deployment environments.
-
-Managed CI/CD pipelines using Jenkins to automate build, testing, and deployment processes.
+Built CI/CD pipelines using Jenkins
 
 ☁️ AWS Cloud Administrator
 
 Yoda Technology
 📅 Nov 2023 – Apr 2024
 
-Managed and monitored AWS cloud infrastructure including EC2, S3, RDS, and VPC.
+Managed AWS infrastructure (EC2, S3, RDS, VPC)
 
-Launched and configured EC2 instances and managed EBS volumes for scalable storage.
+Configured VPC networking components
 
-Designed and configured VPC components including subnets, route tables, NAT Gateway, and Internet Gateway.
+Implemented IAM roles, policies, MFA
 
-Implemented IAM roles, policies, and MFA to ensure secure access control.
+Setup CloudWatch monitoring & alerts
 
-Configured CloudWatch monitoring, logs, and alarms for performance tracking and system health.
+Managed EBS volumes and backups
 
-Performed automated backups, snapshots, and disaster recovery planning to ensure business continuity.
+Performed disaster recovery planning
 
-Troubleshot server, networking, and application-level issues to maintain high availability.
+Troubleshot cloud & server infrastructure issues
 
 🌐 Connect With Me
 
