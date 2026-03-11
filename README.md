@@ -21,7 +21,7 @@ I enjoy solving complex infrastructure problems and building highly scalable clo
 🐳 Containers & Orchestration
 <p> <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> </p>
 
-Docker Scout
+
 
 🏗️ Infrastructure as Code
 <p> <img src="https://skillicons.dev/icons?i=terraform,ansible" /> </p>
